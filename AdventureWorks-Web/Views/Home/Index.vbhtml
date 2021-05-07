@@ -4,5 +4,5 @@ End Code
 
 <div class="jumbotron">
     <h1>AdvenrtureWorks-Web</h1>
-    <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS and JavaScript.</p>
+    <p class="lead">This is a sample of how to buld a MVC application using the same view model, data layer and entity layer you we created earlier in this course.</p>
 </div>
